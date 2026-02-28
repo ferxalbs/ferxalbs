@@ -46,8 +46,8 @@ Monaco editor + Tauri 2.0 + a blazing-fast Rust backend. Exceptional performance
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferxalbs&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferxalbs&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ferxalbs&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferxalbs&theme=tokyonight)
 
 ---
 
