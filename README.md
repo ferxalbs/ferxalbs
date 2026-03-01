@@ -19,9 +19,9 @@ Most of what I make follows the same rule: **less bloat, more power**.
 
 ## 🌧️ Current Focus
 
-- 🤖 **[Rainy MaTE](https://github.com/FernandoAlbornoz/rainy-mate)** — Native desktop runtime for autonomous AI agents  
-- 🛸 **[Rainy Aether](https://github.com/FernandoAlbornoz/rainy-aether)** — AI-first code editor built for speed, focus, and local power  
-- 🚦 **[Rainy Updates](https://github.com/FernandoAlbornoz/rainy-updates)** — DevOps-first dependency CLI for audits, upgrades, and automation  
+- 🤖 **[Rainy MaTE](https://github.com/ferxalbs/rainy-mate)** — Native desktop runtime for autonomous AI agents  
+- 🛸 **[Rainy Aether](https://github.com/ferxalbs/rainy-aether)** — AI-first code editor built for speed, focus, and local power  
+- 🚦 **[Rainy Updates](https://github.com/ferxalbs/rainy-updates)** — DevOps-first dependency CLI for audits, upgrades, and automation  
 - 🌌 **Building the Rainy ecosystem** — tools for AI-native developers who want performance without compromise  
 
 ---
